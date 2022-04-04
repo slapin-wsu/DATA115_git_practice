@@ -7,7 +7,8 @@ This is a list:
 - Second item
 --Third item 
 
-*You can also include links with Markdown:
+*You can also include links with Markdown:*
+
 www.math.wsu.edu/faculty/slapin
 
 ![This is an image](	/assets/images/random_info.jpg)
