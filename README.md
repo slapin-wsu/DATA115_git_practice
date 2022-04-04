@@ -12,4 +12,4 @@ or html:
 
 link to my webpage.
 
-Here are two ways to include images:
+![This is an image](	/assets/images/random_info.jpg)
