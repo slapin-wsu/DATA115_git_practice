@@ -2,14 +2,12 @@
 
 This goes along with the directions on **Canvas**.
 
-This is a list item in html
-This is a list item in MarkDown
-You can also include links with Markdown
+This is a list:
+1. First item
+- Second item
+--Third item 
 
-link to my webpage
-
-or html:
-
-link to my webpage.
+*You can also include links with Markdown:
+www.math.wsu.edu/faculty/slapin
 
 ![This is an image](	/assets/images/random_info.jpg)
