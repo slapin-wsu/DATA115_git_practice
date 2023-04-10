@@ -1,4 +1,4 @@
-## Practice repository for DATA 115 Spring 2022
+## Practice repository for DATA 115 
 
 This goes along with the directions on **Canvas**.
 
